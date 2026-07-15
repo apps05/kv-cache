@@ -1,0 +1,16 @@
+# Build directories and binaries
+build/
+build_tsan/
+a.out
+*.o
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Database
+products.db
+
+# OS Files
+.DS_Store
